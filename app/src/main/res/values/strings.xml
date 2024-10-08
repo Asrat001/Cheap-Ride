@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cheap Ride</string>
+    <string name="text">text</string>
+    <string name="where_do_you_went_to_go">Where do you went to Go ?</string>
+    <string name="zayride">ZayRide Price</string>
+    <string name="feres">Feres Price</string>
+    <string name="ride_cap_image">ride cap image</string>
+    <string name="type">Type</string>
+    <string name="price">price</string>
+</resources>
